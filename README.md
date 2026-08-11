@@ -15,9 +15,10 @@ A professional, bilingual personal website template for GitHub Pages. It include
 
 1. Replace `Alex Morgan`, `AM`, and the demonstration copy in `index.html` and `en/index.html`.
 2. Replace `your-username` and `your-profile` in all HTML files.
-3. Add blog entries to `blog/index.html` and `en/blog/index.html` by copying an existing `post-card` article.
-4. Adjust the violet palette in `palette.css`.
-5. Replace the favicon files in `assets/`.
+3. Replace `your-page` with your Buy Me a Coffee page, or remove the support section.
+4. Add blog entries to `blog/index.html` and `en/blog/index.html` by copying an existing `post-card` article.
+5. Adjust the violet palette in `palette.css`.
+6. Replace the favicon files in `assets/`.
 
 ## Preview locally
 
