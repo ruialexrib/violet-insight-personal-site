@@ -2,6 +2,8 @@
 
 A professional, bilingual personal website template for GitHub Pages. It includes a landing page, profile, focus areas, experience, education and research, contact links, and a static blog that points to external articles.
 
+![Violet Insight personal website template preview](assets/violet-insight-preview.png)
+
 ## Features
 
 - Portuguese and English versions
